@@ -1,0 +1,47 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: #FBFFF1;
+}
+
+h2 {
+    color: #FBFFF1;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: ;
+}
+
+body {
+    background-color: #B4C5E4;
+    color: #3C3744;
+    
+}
+
+.featuredList {
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.topList {
+    font-size: 2em;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+em
+{
+    font-weight: lighter;
+}
+
+a {
+    color: #090C9B;
+}
+
+strong {
+    color: #FBFFF1;
+}
