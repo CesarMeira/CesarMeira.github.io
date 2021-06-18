@@ -36,6 +36,7 @@ body {
 em
 {
     font-weight: lighter;
+    color: #090C9B;
 }
 
 a {
@@ -43,5 +44,5 @@ a {
 }
 
 strong {
-    color: #FBFFF1;
+    color: #090C9B;
 }
