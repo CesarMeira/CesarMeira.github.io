@@ -45,3 +45,21 @@ a {
 strong {
     color: #090C9B;
 }
+
+div {
+    border: 2px solid green;
+}
+
+.name {
+    text-align: center;
+}
+
+#foto {
+   float: left; 
+}
+
+.descrição {
+    height: 140px;
+    text-align: left;
+    margin-left: 10px;
+}
