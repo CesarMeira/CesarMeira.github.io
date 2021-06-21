@@ -17,6 +17,7 @@ p {
 body {
     background-color: #B4C5E4;
     color: #3C3744;
+    padding: 3%;
     
 }
 
@@ -44,4 +45,35 @@ a {
 
 strong {
     color: #090C9B;
+}
+
+.name {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#foto {
+   float: left; 
+   border-radius: 47%;
+   background-color: black;
+   padding: 5px;
+}
+
+.imgdesc {
+    height: 155px;
+    position: relative;
+}
+
+.descrição {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+.skillList li:nth-child(odd) {
+    background-color: chartreuse;   
+}
+
+div {
+    border: 2px solid green;
 }
